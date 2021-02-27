@@ -3,7 +3,7 @@ package main
 import(
   "log"
   "flag"
-  "github.com/vdios/http-rest-api"
+  "github.com/vdios/http-rest-api/internal/app/apiserver"
   "github.com/BurntSushi/toml"
 )
 
